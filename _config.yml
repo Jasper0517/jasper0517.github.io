@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jasper Blog
-subtitle:
-description:
-keywords:
+title: Jasper Front-end Blog
+subtitle: Jasper Blog
+description: Jasper Front-end Blog
+keywords: javascript,frontend,html,css
 author: Jasper
 language: zh-TW
 timezone:
